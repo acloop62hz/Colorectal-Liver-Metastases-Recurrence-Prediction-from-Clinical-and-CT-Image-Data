@@ -27,8 +27,8 @@ Running all the cells
 
 To run the CNN method,
 - Using ipynb files:
-Running all the cells\\
-The dataset can be download at https://drive.google.com/drive/folders/14mJNEYAsGXLe3F-6vi_TcOAe6t4DxCSY?usp=share_link
+Running all the cells
+- The dataset can be download at https://drive.google.com/drive/folders/14mJNEYAsGXLe3F-6vi_TcOAe6t4DxCSY?usp=share_link
 
 
 * # Contributor
