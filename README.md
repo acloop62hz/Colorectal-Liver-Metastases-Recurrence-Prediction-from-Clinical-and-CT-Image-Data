@@ -36,5 +36,5 @@ Running all the cells
 | Yuxuan Shen| CNN|
 
 * # Google Drive Link
-The dataset is in our google drive folder below.
+The dataset is in our google drive folder below. <br>
 https://drive.google.com/drive/folders/156ZDJsx0WzDI4u0VlpBvv1y3jCowNIAh?usp=sharing
