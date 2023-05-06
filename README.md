@@ -5,8 +5,11 @@
 * # Instructions
 
 To run the SVM method,
+
+```python
 cd SVM
 Python SVM_change1.py
+```
 
 To run the Random Forest method,
 cd Random_Forest
