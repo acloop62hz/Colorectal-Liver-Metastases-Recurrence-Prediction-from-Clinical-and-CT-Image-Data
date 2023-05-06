@@ -12,12 +12,15 @@ Python SVM_change1.py
 ```
 
 To run the Random Forest method,
+
+```python
 cd Random_Forest
 Python function.py
 Python main.py
+```
 
 Using ipynb file:
-Running cells
+Running all the cells
 
 
 * # Contributor
