@@ -1,7 +1,7 @@
 # Colorectal Liver Metastases Recurrence Prediction from Clinical and CT ImageData
 - [Instructions](#Instructions)
 - [Contributor](#Contributor)
-- [Google Drive Link](#Google Drive Link)
+- [Link](#Link)
 
 * # Instructions
 
@@ -40,6 +40,6 @@ Running all the cells
 | Wanzi Xiao| Random Forest |
 | Yuxuan Shen| CNN|
 
-* # Google Drive Link
+* # Link
 The dataset is in our google drive folder below. <br>
 https://drive.google.com/drive/folders/156ZDJsx0WzDI4u0VlpBvv1y3jCowNIAh?usp=sharing
