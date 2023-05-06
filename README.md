@@ -41,5 +41,5 @@ Running all the cells
 | Yuxuan Shen| CNN|
 
 * # Link
-The dataset is in our google drive folder below. <br>
+The whole project is present in our google drive folder below. <br>
 https://drive.google.com/drive/folders/156ZDJsx0WzDI4u0VlpBvv1y3jCowNIAh?usp=sharing
