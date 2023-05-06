@@ -1,0 +1,17 @@
+---
+:id: 179458035
+:submitters:
+- :name: Yuxuan Shen
+  :email: yuxuans3@andrew.cmu.edu
+- :name: Wanzi Xiao
+  :email: wanzix@andrew.cmu.edu
+- :name: Ju-Chun Huang
+  :email: juchunh@andrew.cmu.edu
+- :name: Xueke Jin
+  :email: xuekej@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-05-06 03:57:12.816642000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-05-05 20:57:12.816642000 Z
+:status: processed
