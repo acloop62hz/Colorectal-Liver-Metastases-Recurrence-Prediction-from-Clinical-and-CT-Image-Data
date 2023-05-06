@@ -25,6 +25,10 @@ Python main.py
 - Using ipynb files:
 Running all the cells
 
+To run the CNN method,
+- Using ipynb files:
+Running all the cells
+
 
 * # Contributor
   
